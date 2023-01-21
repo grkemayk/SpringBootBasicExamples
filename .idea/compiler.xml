@@ -9,10 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="AnnotationsAndConfigurations" />
         <module name="ElasticSearchExample" />
-        <module name="authServer" />
+        <module name="JobScheduler" />
         <module name="AOP" />
-        <module name="validations" />
         <module name="kafkaStream" />
+        <module name="authServer" />
+        <module name="validations" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="AOP" options="-parameters" />
       <module name="AnnotationsAndConfigurations" options="-parameters" />
       <module name="ElasticSearchExample" options="-parameters" />
+      <module name="JobScheduler" options="-parameters" />
       <module name="authServer" options="-parameters" />
       <module name="authServer (1)" options="-parameters" />
       <module name="kafkaStream" options="-parameters" />
