@@ -14,10 +14,14 @@
         <module name="kafkaStream" />
         <module name="authServer" />
         <module name="validations" />
+        <module name="EqualHascode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="authServer (1)" target="17" />
+      <module name="SpringBootBasicExamples" target="17" />
+      <module name="zipkin" target="18" />
+      <module name="zipkinServer" target="18" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,11 +29,14 @@
       <module name="AOP" options="-parameters" />
       <module name="AnnotationsAndConfigurations" options="-parameters" />
       <module name="ElasticSearchExample" options="-parameters" />
+      <module name="EqualHascode" options="-parameters" />
       <module name="JobScheduler" options="-parameters" />
       <module name="authServer" options="-parameters" />
       <module name="authServer (1)" options="-parameters" />
       <module name="kafkaStream" options="-parameters" />
       <module name="validations" options="-parameters" />
+      <module name="zipkin" options="-parameters" />
+      <module name="zipkinServer" options="-parameters" />
     </option>
   </component>
 </project>

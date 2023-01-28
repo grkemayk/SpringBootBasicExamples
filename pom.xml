@@ -11,7 +11,8 @@
         <module>ElasticSearchExample</module>
         <module>AOP</module>
         <module>JobScheduler</module>
-    </modules>
+		<module>EqualHascode</module>
+	</modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
