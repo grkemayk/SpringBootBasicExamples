@@ -12,7 +12,8 @@
         <module>AOP</module>
         <module>JobScheduler</module>
 		<module>EqualHascode</module>
-	</modules>
+        <module>Lambda</module>
+    </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>

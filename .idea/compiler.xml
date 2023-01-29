@@ -14,6 +14,7 @@
         <module name="kafkaStream" />
         <module name="authServer" />
         <module name="validations" />
+        <module name="Lambda" />
         <module name="EqualHascode" />
       </profile>
     </annotationProcessing>
@@ -31,6 +32,7 @@
       <module name="ElasticSearchExample" options="-parameters" />
       <module name="EqualHascode" options="-parameters" />
       <module name="JobScheduler" options="-parameters" />
+      <module name="Lambda" options="-parameters" />
       <module name="authServer" options="-parameters" />
       <module name="authServer (1)" options="-parameters" />
       <module name="kafkaStream" options="-parameters" />
