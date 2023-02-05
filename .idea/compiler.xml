@@ -13,8 +13,10 @@
         <module name="AOP" />
         <module name="kafkaStream" />
         <module name="authServer" />
+        <module name="FunctionalInterface" />
         <module name="validations" />
         <module name="Lambda" />
+        <module name="DependencyInjection" />
         <module name="EqualHascode" />
       </profile>
     </annotationProcessing>
@@ -29,8 +31,10 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AOP" options="-parameters" />
       <module name="AnnotationsAndConfigurations" options="-parameters" />
+      <module name="DependencyInjection" options="-parameters" />
       <module name="ElasticSearchExample" options="-parameters" />
       <module name="EqualHascode" options="-parameters" />
+      <module name="FunctionalInterface" options="-parameters" />
       <module name="JobScheduler" options="-parameters" />
       <module name="Lambda" options="-parameters" />
       <module name="authServer" options="-parameters" />

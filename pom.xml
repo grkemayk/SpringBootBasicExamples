@@ -13,6 +13,8 @@
         <module>JobScheduler</module>
 		<module>EqualHascode</module>
         <module>Lambda</module>
+        <module>DependencyInjection</module>
+        <module>FunctionalInterface</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
