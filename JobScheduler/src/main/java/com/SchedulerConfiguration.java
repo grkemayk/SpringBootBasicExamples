@@ -4,6 +4,7 @@ import org.springframework.boot.autoconfigure.flyway.FlywayDataSource;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.scheduling.annotation.Async;
+import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
@@ -12,6 +13,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 
 @Configuration
 @EnableScheduling
+@EnableAsync
 public class SchedulerConfiguration {
     private static final int DEFAULTPOOL = 5;
     private static final int MAXPOOL = 30;
