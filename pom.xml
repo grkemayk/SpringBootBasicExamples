@@ -15,6 +15,7 @@
         <module>Lambda</module>
         <module>DependencyInjection</module>
         <module>FunctionalInterface</module>
+        <module>JavaCoreExample</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>

@@ -11,6 +11,7 @@
         <module name="ElasticSearchExample" />
         <module name="JobScheduler" />
         <module name="AOP" />
+        <module name="JavaCoreExample" />
         <module name="kafkaStream" />
         <module name="authServer" />
         <module name="FunctionalInterface" />
@@ -35,6 +36,7 @@
       <module name="ElasticSearchExample" options="-parameters" />
       <module name="EqualHascode" options="-parameters" />
       <module name="FunctionalInterface" options="-parameters" />
+      <module name="JavaCoreExample" options="-parameters" />
       <module name="JobScheduler" options="-parameters" />
       <module name="Lambda" options="-parameters" />
       <module name="authServer" options="-parameters" />

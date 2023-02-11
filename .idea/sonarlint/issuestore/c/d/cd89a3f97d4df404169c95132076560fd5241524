@@ -1,0 +1,24 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Grkem" 5 times.(ÍÔëÉüÿÿÿÿ8¯‡Ğºß0
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ó¨…üÿÿÿÿ8ıºĞºß0
+^
+java:S4973!"<Strings and Boxed types should be compared using "equals()".(Ò²ƒşùÿÿÿÿ8ÿºĞºß0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰¾ 
+W
+java:S1854"5Remove this useless assignment to local variable "c".(ÿ½Öçúÿÿÿÿ8šåÅºß0
+H
+java:S1481"&Remove this unused "c" local variable.(ÿ½Öçúÿÿÿÿ8åÅºß0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é°Ú¯8Ëè¢ºß0
+Q	java:S125"<This block of commented-out lines of code should be removed.(Øû³
+=
+java:S2129" Remove this "String" constructor(¶»ü8¹‡Ğºß0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ó¨…üÿÿÿÿ8’»Ğºß0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(†¯§æÿÿÿÿÿ8’»Ğºß0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ò²ƒşùÿÿÿÿ8îñİºß0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ç·ùÖüÿÿÿÿ8ö¼áºß0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ûÂºß0
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8µÎÎºß0
