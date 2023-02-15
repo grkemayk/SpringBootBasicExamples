@@ -123,8 +123,6 @@ k
 ;JavaCoreExample/src/main/java/com/JavaCoreExample/Main.java,9/c/9c99a5bfa50af1505fd98edff860af80667ce1a1
 G
 JavaCoreExample/pom.xml,0/d/0daa9cb554d2a205e6a8f50fa5f71c6d2762fa51
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 }
 MJavaCoreExample/src/main/java/com/JavaCoreExample/Pattern/SingletonClass.java,0/b/0b274f67f759b0530d73be6c5080b70070d6c897
 O

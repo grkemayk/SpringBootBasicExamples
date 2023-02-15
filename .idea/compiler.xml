@@ -7,18 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="AnnotationsAndConfigurations" />
         <module name="ElasticSearchExample" />
         <module name="JobScheduler" />
         <module name="AOP" />
         <module name="JavaCoreExample" />
         <module name="kafkaStream" />
-        <module name="authServer" />
         <module name="FunctionalInterface" />
+        <module name="DependencyInjection" />
+        <module name="ParalelStream" />
+        <module name="EqualHascode" />
+        <module name="AnnotationsAndConfigurations" />
+        <module name="TryResource" />
+        <module name="authServer" />
         <module name="validations" />
         <module name="Lambda" />
-        <module name="DependencyInjection" />
-        <module name="EqualHascode" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -39,6 +41,8 @@
       <module name="JavaCoreExample" options="-parameters" />
       <module name="JobScheduler" options="-parameters" />
       <module name="Lambda" options="-parameters" />
+      <module name="ParalelStream" options="-parameters" />
+      <module name="TryResource" options="-parameters" />
       <module name="authServer" options="-parameters" />
       <module name="authServer (1)" options="-parameters" />
       <module name="kafkaStream" options="-parameters" />
