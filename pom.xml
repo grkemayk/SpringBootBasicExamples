@@ -18,6 +18,7 @@
         <module>JavaCoreExample</module>
         <module>ParalelStream</module>
         <module>TryResource</module>
+        <module>Collection</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>

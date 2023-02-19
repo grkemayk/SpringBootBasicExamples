@@ -127,3 +127,7 @@ G
 MJavaCoreExample/src/main/java/com/JavaCoreExample/Pattern/SingletonClass.java,0/b/0b274f67f759b0530d73be6c5080b70070d6c897
 O
 AOP/src/main/java/com/Main.java,b/1/b18e188976d5ced1b6b13aaa82092fd0438930a9
+g
+7ParalelStream/src/main/java/com/ParalelStream/Main.java,b/a/ba1a03588a4652d2aaab0207f97f6b11f54d5660
+C
+TryResource/pom.xml,d/a/da7df14bfb170859cf2d486dd8bb7367e6461ee9

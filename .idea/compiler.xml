@@ -19,6 +19,7 @@
         <module name="AnnotationsAndConfigurations" />
         <module name="TryResource" />
         <module name="authServer" />
+        <module name="Collection" />
         <module name="validations" />
         <module name="Lambda" />
       </profile>
@@ -34,6 +35,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AOP" options="-parameters" />
       <module name="AnnotationsAndConfigurations" options="-parameters" />
+      <module name="Collection" options="-parameters" />
       <module name="DependencyInjection" options="-parameters" />
       <module name="ElasticSearchExample" options="-parameters" />
       <module name="EqualHascode" options="-parameters" />
