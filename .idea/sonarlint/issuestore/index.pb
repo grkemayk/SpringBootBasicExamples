@@ -37,8 +37,6 @@ w
 G.idea/sonarlint/issuestore/b/1/b18e188976d5ced1b6b13aaa82092fd0438930a9,5/a/5a2d57f9c684055c58da41a561ef19a052a5de39
 >
 Lambda/pom.xml,6/8/6830a913cb8a859449309e615f69947e035aa815
-D
-JobScheduler/pom.xml,9/3/93c849695d0d9a26f9c55d6998570ec30db1014f
 s
 CDependencyInjection/src/main/java/com/DependencyInjection/Main.java,5/7/572448c848d6b3cc9bc26b1fd36069b8949ae46c
 s
@@ -59,8 +57,6 @@ x
 HElasticSearchExample/src/main/java/com/controller/CompanyController.java,0/c/0cb8dac9aaec5824c4c4db5e28cb8746f29505f7
 X
 (JobScheduler/src/main/java/com/Main.java,5/7/57b6a6d0b43a323c203d1667d78914a8cca9cb83
-j
-:JobScheduler/src/main/java/com/SchedulerConfiguration.java,2/0/20f3efa8d3a437f21f3b9287274c8ec0668ff5b3
 ^
 .kafkaStream/src/main/java/com/kafkaStream.java,1/5/1574e7581f584f97f80a19ef95c6006db29f7c63
 ^
@@ -131,3 +127,11 @@ g
 7ParalelStream/src/main/java/com/ParalelStream/Main.java,b/a/ba1a03588a4652d2aaab0207f97f6b11f54d5660
 C
 TryResource/pom.xml,d/a/da7df14bfb170859cf2d486dd8bb7367e6461ee9
+c
+3TryResource/src/main/java/com/TryResource/Main.java,f/b/fbd14571436bb6db51b02d81881632cc5bca44d5
+E
+ParalelStream/pom.xml,b/b/bb0237112dea46bef7d4e3b98f0f081823f57348
+a
+1Collection/src/main/java/com/Collection/Main.java,6/6/660fa38e46e43c606222b27c9ddd6b41714863c1
+B
+Collection/pom.xml,4/f/4fed7624d6de8dbe7cacd98ac286214061986006
