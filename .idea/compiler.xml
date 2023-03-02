@@ -19,6 +19,7 @@
         <module name="AnnotationsAndConfigurations" />
         <module name="Webflux" />
         <module name="TryResource" />
+        <module name="Caching" />
         <module name="authServer" />
         <module name="Collection" />
         <module name="validations" />
@@ -28,6 +29,7 @@
     <bytecodeTargetLevel>
       <module name="authServer (1)" target="17" />
       <module name="SpringBootBasicExamples" target="17" />
+      <module name="SpringCache" target="18" />
       <module name="zipkin" target="18" />
       <module name="zipkinServer" target="18" />
     </bytecodeTargetLevel>
@@ -36,6 +38,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AOP" options="-parameters" />
       <module name="AnnotationsAndConfigurations" options="-parameters" />
+      <module name="Caching" options="-parameters" />
       <module name="Collection" options="-parameters" />
       <module name="DependencyInjection" options="-parameters" />
       <module name="ElasticSearchExample" options="-parameters" />
@@ -45,6 +48,7 @@
       <module name="JobScheduler" options="-parameters" />
       <module name="Lambda" options="-parameters" />
       <module name="ParalelStream" options="-parameters" />
+      <module name="SpringCache" options="-parameters" />
       <module name="TryResource" options="-parameters" />
       <module name="Webflux" options="-parameters" />
       <module name="authServer" options="-parameters" />

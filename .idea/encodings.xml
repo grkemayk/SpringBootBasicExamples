@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/AOP/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/AnnotationsAndConfigurations/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Caching/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Collection/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DependencyInjection/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ElasticSearchExample/src/main/java" charset="UTF-8" />
@@ -12,6 +13,7 @@
     <file url="file://$PROJECT_DIR$/JobScheduler/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Lambda/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ParalelStream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/TryResource/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Webflux/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/authServer/src/main/java" charset="UTF-8" />

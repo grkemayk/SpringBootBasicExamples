@@ -55,8 +55,6 @@ h
 MElasticSearchExample/src/main/java/com/configuration/ElasticsearchConfig.java,e/1/e192c05132d27700b4d7711a7c1429cb02599be0
 x
 HElasticSearchExample/src/main/java/com/controller/CompanyController.java,0/c/0cb8dac9aaec5824c4c4db5e28cb8746f29505f7
-X
-(JobScheduler/src/main/java/com/Main.java,5/7/57b6a6d0b43a323c203d1667d78914a8cca9cb83
 ^
 .kafkaStream/src/main/java/com/kafkaStream.java,1/5/1574e7581f584f97f80a19ef95c6006db29f7c63
 ^
