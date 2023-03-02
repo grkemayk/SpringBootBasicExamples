@@ -21,7 +21,8 @@
         <module>Collection</module>
         <module>Webflux</module>
 		<module>Caching</module>
-	</modules>
+        <module>FilterQueryNotNullParam</module>
+    </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>

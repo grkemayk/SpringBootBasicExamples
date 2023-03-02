@@ -20,6 +20,7 @@
         <module name="Webflux" />
         <module name="TryResource" />
         <module name="Caching" />
+        <module name="FilterQueryNotNullParam" />
         <module name="authServer" />
         <module name="Collection" />
         <module name="validations" />
@@ -43,6 +44,7 @@
       <module name="DependencyInjection" options="-parameters" />
       <module name="ElasticSearchExample" options="-parameters" />
       <module name="EqualHascode" options="-parameters" />
+      <module name="FilterQueryNotNullParam" options="-parameters" />
       <module name="FunctionalInterface" options="-parameters" />
       <module name="JavaCoreExample" options="-parameters" />
       <module name="JobScheduler" options="-parameters" />
