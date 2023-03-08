@@ -1,11 +1,23 @@
 package com.Collection;
 
-import java.util.HashMap;
-import java.util.IdentityHashMap;
-import java.util.TreeSet;
+import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
+        //MAP
+        HashMap<String, String> my = new HashMap<>();// key - value -> key unique
+        TreeMap<String, String> mx = new TreeMap<>();//Key'e göre index yapar.
+        Hashtable<String, String> mz = new Hashtable<>();//Thread safe.
+        //SET
+        HashSet<String> sx = new HashSet<>();//Tek tip data. Duplicate data tutmaz.
+        TreeSet<String> sy = new TreeSet<>();//Index'li tek tip data.
+        //LIST
+        ArrayList<String> lx = new ArrayList<>();//Tek tip data. Duplicate tutar.
+        LinkedList<String> ly = new LinkedList<>();//Tek tip data.Duplicate tutar. Chain gibi tutar dataları. EKLEME ve ÇIKARTMA işlemlerinde kullanılmalı!
+        Vector<String> lz = new Vector<>();//Tek tip data tutar. Duplicate tutar. Thread safe.
+
+        //ORNEKLER
+
         TreeSet x = new TreeSet();//Sadece bir tip data tutar. Sayılar için sıralı bir şekilde string'ler için alfabetik olarak sıralar. Bir nevi index gibi.
         x.add("b");
         x.add("a");
