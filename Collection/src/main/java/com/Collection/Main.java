@@ -5,7 +5,8 @@ import java.util.*;
 public class Main {
     public static void main(String[] args) {
         //MAP
-        HashMap<String, String> my = new HashMap<>();// key - value -> key unique
+        HashMap<String, String> my = new HashMap<>();// key - value -> key unique. Keyler equal'a göre unique'tir.
+        IdentityHashMap<String, String> mt = new IdentityHashMap<>();//Key'ler == 'e göre unique'dir
         TreeMap<String, String> mx = new TreeMap<>();//Key'e göre index yapar.
         Hashtable<String, String> mz = new Hashtable<>();//Thread safe.
         //SET

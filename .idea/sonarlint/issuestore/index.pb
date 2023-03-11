@@ -159,3 +159,5 @@ O
 pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 {
 KFilterQueryNotNullParam/src/main/java/com/FilterQueryNotNullParam/Main.java,d/f/dfbf17a6f1a452bc79beb1a035d01e39915661d0
+j
+:JobScheduler/src/main/java/com/SchedulerConfiguration.java,2/0/20f3efa8d3a437f21f3b9287274c8ec0668ff5b3
