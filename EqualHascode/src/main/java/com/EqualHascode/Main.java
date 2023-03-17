@@ -38,11 +38,8 @@ public class Main {// == Operatoru String Po
         //equals ise bellekte ki adresleri aynıysa true döner veya içeriği aynıysa true döner.
 
 
-        TestClazzz test1 = new TestClazzz("a", "b");
-        TestClazzz test2 = new TestClazzz("a", "b");
-        TestClazzz test3 = new TestClazzz(1, 2);
-        TestClazzz test4 = new TestClazzz("a", "b");
-
+        TestClazzz test1 = new TestClazzz("a", "b", 1, 2);
+        TestClazzz test2 = new TestClazzz("a", "b", 1, 2);
         System.out.println(test2.equals(test1));
 
     }
