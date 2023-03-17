@@ -36,5 +36,14 @@ public class Main {// == Operatoru String Po
         //hashCode - ibjenin bellete ki adresine göre oluşturulan bir code. Equals'u true dönen nesnelerin hasCode'u da true dönmeli, equals false dönüyorsa hashCode false dönmese de olur ancak dönerse daha iyi olur.
         //== ve equals arasında ki fark == operatördür ve override edilemez. Heap'te ki adresleri kontrol eder ve aynıysa true döner
         //equals ise bellekte ki adresleri aynıysa true döner veya içeriği aynıysa true döner.
+
+
+        TestClazzz test1 = new TestClazzz("a", "b");
+        TestClazzz test2 = new TestClazzz("a", "b");
+        TestClazzz test3 = new TestClazzz(1, 2);
+        TestClazzz test4 = new TestClazzz("a", "b");
+
+        System.out.println(test2.equals(test1));
+
     }
 }

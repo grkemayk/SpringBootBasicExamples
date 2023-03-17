@@ -27,12 +27,6 @@ C
 validations/pom.xml,0/8/08b396e220a59087846556ac973341ef41b76ba8
 c
 3AOP/src/main/java/com/controller/aopCOntroller.java,b/b/bb9274cc71445b596e2b88d7fe905908bd75e1ec
-D
-EqualHascode/pom.xml,4/0/40d04f5a44873a7360edfd55d302922eb331acb9
-e
-5EqualHascode/src/main/java/com/EqualHascode/Main.java,c/d/cd89a3f97d4df404169c95132076560fd5241524
-j
-:EqualHascode/src/main/java/com/EqualHascode/TestClazz.java,a/4/a4a542b4e96761d7d3fd0c261eb75998ec656f0e
 w
 G.idea/sonarlint/issuestore/b/1/b18e188976d5ced1b6b13aaa82092fd0438930a9,5/a/5a2d57f9c684055c58da41a561ef19a052a5de39
 >
@@ -155,8 +149,6 @@ b
 2Webflux/src/main/java/com/Webflux/WebfluxMain.java,b/c/bc7ef6c94a97410f1d0ab1ceed22809a6746b67b
 O
 FilterQueryNotNullParam/pom.xml,7/1/71ef7996f87e44852966f6eb00cc744e3d01cdf3
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 {
 KFilterQueryNotNullParam/src/main/java/com/FilterQueryNotNullParam/Main.java,d/f/dfbf17a6f1a452bc79beb1a035d01e39915661d0
 j
