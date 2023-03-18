@@ -1,8 +1,0 @@
-
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¹ôÓ‚úÿÿÿÿ
-q
-java:S4144"TUpdate this method so that its implementation is not identical to "aop1" on line 14.(è…ˆ•8Ð‘œÒÚ0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(…ð¾Œ8ÿïÌ¥Ú0
-U	java:S106"9Replace this use of System.out or System.err by a logger.(…ð¾Œ8È°Ž¦Ú0
-l
-java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8æá¨¦Ú0

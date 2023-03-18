@@ -1,17 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¹Ùáùÿÿÿÿ
-k	java:S114"QRename this interface name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤’èëøÿÿÿÿ
-U
-java:S1854"?Remove this useless assignment to local variable "interface11".(¶ƒ É
-B
-java:S1602",Remove useless curly braces around statement(¶ƒ É
-P
-java:S1612":Replace this lambda with method reference 'Main::method1'.(¶ƒ É
-F
-java:S1481"0Remove this unused "interface11" local variable.(¶ƒ É
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‡ÑÏøÿÿÿÿ
-h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÓÜØùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(œÓ€ü
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ðêºû
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ñýÌ’
-N	java:S106"9Replace this use of System.out or System.err by a logger.(®èð 
