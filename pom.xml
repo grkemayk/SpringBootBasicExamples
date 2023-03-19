@@ -22,6 +22,7 @@
         <module>Webflux</module>
 		<module>Caching</module>
         <module>FilterQueryNotNullParam</module>
+        <module>Generic</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>

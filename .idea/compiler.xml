@@ -12,6 +12,7 @@
         <module name="AOP" />
         <module name="JavaCoreExample" />
         <module name="kafkaStream" />
+        <module name="Generic" />
         <module name="FunctionalInterface" />
         <module name="DependencyInjection" />
         <module name="ParalelStream" />
@@ -46,6 +47,7 @@
       <module name="EqualHascode" options="-parameters" />
       <module name="FilterQueryNotNullParam" options="-parameters" />
       <module name="FunctionalInterface" options="-parameters" />
+      <module name="Generic" options="-parameters" />
       <module name="JavaCoreExample" options="-parameters" />
       <module name="JobScheduler" options="-parameters" />
       <module name="Lambda" options="-parameters" />
