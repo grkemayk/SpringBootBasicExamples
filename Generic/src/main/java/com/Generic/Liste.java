@@ -13,4 +13,7 @@ public class Liste<T> {
     public ArrayList<T> getirArrayList(){
         return this.liste;
     }
+    public void testMethod(T type) {
+        System.out.println(type.getClass());
+    }
 }
