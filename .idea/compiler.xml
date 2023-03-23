@@ -18,6 +18,7 @@
         <module name="ParalelStream" />
         <module name="EqualHascode" />
         <module name="AnnotationsAndConfigurations" />
+        <module name="Threads" />
         <module name="Webflux" />
         <module name="TryResource" />
         <module name="Caching" />
@@ -53,6 +54,7 @@
       <module name="Lambda" options="-parameters" />
       <module name="ParalelStream" options="-parameters" />
       <module name="SpringCache" options="-parameters" />
+      <module name="Threads" options="-parameters" />
       <module name="TryResource" options="-parameters" />
       <module name="Webflux" options="-parameters" />
       <module name="authServer" options="-parameters" />

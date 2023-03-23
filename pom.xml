@@ -23,6 +23,7 @@
 		<module>Caching</module>
         <module>FilterQueryNotNullParam</module>
         <module>Generic</module>
+        <module>Threads</module>
     </modules>
     <parent>
 		<groupId>org.springframework.boot</groupId>
